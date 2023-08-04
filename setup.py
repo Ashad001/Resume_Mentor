@@ -21,6 +21,5 @@ setup(
     name = 'Resume_Mentor',
     version = '1.0.0',
     packages=find_packages(),
-    install_requires=get_requires('requirements.txt'),
-       
+    install_requires=get_requires('requirements.txt'),      
 )
